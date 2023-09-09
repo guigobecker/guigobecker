@@ -25,5 +25,5 @@
 ## 📝 Projetos
 
 <ul>
-  <li>Clonei um site de documentação de JS utilizando HTML e CSS (<a rel="noreferrer" href="guigobecker.github.io/technical-documentation" target="_blank">clique aqui para visualizar</a>)</li>
+  <li>Clonei um site de documentação de JS utilizando HTML e CSS (<a href="guigobecker.github.io/technical-documentation" target="_blank">clique aqui para visualizar</a>)</li>
 </ul>
