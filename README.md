@@ -35,5 +35,5 @@
 
 <ul>
   <li>Conecte-se comigo no <a href="https://www.linkedin.com/in/rodrigosbecker/">LinkedIn</a></li>
-  <li>Me envie um <a href="mailto:rsbecker@inf.ufsm.br">email</a></li>
+  <li>Me envie um email (<a href="mailto:rsbecker@inf.ufsm.br">rsbecker@inf.ufsm.br</a>)</li>
 </ul>
