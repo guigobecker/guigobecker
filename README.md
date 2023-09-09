@@ -26,7 +26,7 @@
 ## 📝 Projetos
 
 <ul>
-  <li>Clonei um site com navbar utilizando HTML e CSS (<a href="https://guigobecker.github.io/technical-documentation/">clique aqui para visualizar</a>)</li>
+  <li>Clonei um site com navbar utilizando HTML e CSS (<a href="https://guigobecker.github.io/clone-js-documentation/">clique aqui para visualizar</a>)</li>
 </ul>
 
 <br/>
