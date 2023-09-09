@@ -34,6 +34,6 @@
 ## 📫 Contato
 
 <ul>
-  <li>Conecte-se comigo no LinkedIn: <a href="https://www.linkedin.com/in/rodrigosbecker/">rodrigosbecker</a></li>
-  <li>Me envie um email: <a href="mailto:rsbecker@inf.ufsm.br">rsbecker@inf.ufsm.br</a></li>
+  <li>Meu LinkedIn: <a href="https://www.linkedin.com/in/rodrigosbecker/">rodrigosbecker</a></li>
+  <li>Meu email: <a href="mailto:rsbecker@inf.ufsm.br">rsbecker@inf.ufsm.br</a></li>
 </ul>
