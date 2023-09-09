@@ -31,3 +31,9 @@
 
 <br/>
 
+## 📫 Contato
+
+<ul>
+  <li>Conecte-se comigo no <a href="https://www.linkedin.com/in/rodrigosbecker/">LinkedIn</a></li>
+  <li>Me envie um <a href="mailto:rsbecker@inf.ufsm.br">email</a></li>
+</ul>
