@@ -29,7 +29,7 @@
 ## 📝 Projetos
 
 <ul>
-  <li>CRUD com API em Laravel e FrontEnd em Vue.js: <a href="https://github.com/guigobecker/biblioteca-pessoal-v1">visualizar</a></li>
+  <li>Biblioteca Pessoal em Laravel e Vue.js: <a href="https://github.com/guigobecker/biblioteca-pessoal-v2">visualizar</a></li>
 </ul>
 
 <br/>
