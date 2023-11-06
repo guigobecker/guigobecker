@@ -29,6 +29,7 @@
 
 <ul>
   <li>Biblioteca Pessoal em Laravel, Vue.js e MySQL: <a href="https://github.com/guigobecker/biblioteca-pessoal-v2">visualizar</a></li>
+  <li>Jogo Mata-Palavras em C: <a href="https://github.com/guigobecker/mata-palavras">visualizar</a></li>
   <li>Sistema Interno Escolar em C++: <a href="https://github.com/guigobecker/sistema-interno-escolar">visualizar</a></li>
   <li>Busca-Veículo em C++: <a href="https://github.com/guigobecker/busca-veiculo">visualizar</a></li>
 </ul>
