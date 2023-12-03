@@ -9,9 +9,11 @@
 
 ## 🔧 Tecnologias
 <img align="left" alt="Laravel" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
-<img align="left" alt="Vue.js" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+<img align="left" alt="Vue" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img align="left" alt="Tailwind" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -28,7 +30,8 @@
 ## 📝 Projetos
 
 <ul>
-  <li>Biblioteca Pessoal em Laravel e Vue.js: <a href="https://github.com/guigobecker/biblioteca-pessoal-v2">visualizar</a></li>
+  <li>Biblioteca Pessoal em Laravel, Vue e Tailwind: <a href="https://github.com/guigobecker/biblioteca-pessoal-v2">visualizar</a></li>
+  <li>Loja virtual em Vue, Typescript e Tailwind: <a href="https://github.com/guigobecker/busca-veiculo">visualizar</a></li>
   <li>Busca-Veículo em C++: <a href="https://github.com/guigobecker/busca-veiculo">visualizar</a></li>
   <li>Sistema Interno Escolar em C++: <a href="https://github.com/guigobecker/sistema-interno-escolar">visualizar</a></li>
   <li>Jogo Mata-Palavras em C: <a href="https://github.com/guigobecker/mata-palavras">visualizar</a></li>
