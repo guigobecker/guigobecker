@@ -26,11 +26,10 @@ Meu nome é Rodrigo, sou Desenvolvedor Full-Stack e estou cursando Ciência da C
 ## 📝 Projetos
 
 <ul>
-  <li>Biblioteca Pessoal em Laravel, Vue e Tailwind: <a href="https://github.com/guigobecker/biblioteca-pessoal-v2">visualizar</a></li>
-  <li>Loja Virtual em Vue, Typescript e Tailwind: <a href="https://github.com/guigobecker/loja-do-guigo">visualizar</a></li>
-  <li>Busca-Veículo em C++: <a href="https://github.com/guigobecker/busca-veiculo">visualizar</a></li>
-  <li>Sistema Interno Escolar em C++: <a href="https://github.com/guigobecker/sistema-interno-escolar">visualizar</a></li>
-  <li>Jogo Mata-Palavras em C: <a href="https://github.com/guigobecker/mata-palavras">visualizar</a></li>
+  <li><a href="https://github.com/guigobecker/gerador-de-citacoes">Gerador de Citações</a>: gere citações filosóficas aleatórias.</li>
+  <li><a href="https://github.com/guigobecker/biblioteca-pessoal-v2">Biblioteca Pessoal</a>: escreva resenhas e avaliações de livros.</li>
+  <li><a href="https://github.com/guigobecker/social-links">Links Sociais</a>: uma página com links para as minhas redes sociais.</li>
+  <li><a href="https://github.com/guigobecker/loja-do-guigo">Loja Virtual</a>: cliente web de uma loja virtual.</li>
 </ul>
 
 <br/>
