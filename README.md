@@ -26,10 +26,10 @@ Meu nome é Rodrigo, sou Desenvolvedor Full-Stack e estou cursando Ciência da C
 ## 📝 Projetos
 
 <ul>
-  <li><a href="https://github.com/guigobecker/gerador-de-citacoes">Gerador de Citações</a>: gere citações filosóficas aleatórias.</li>
   <li><a href="https://github.com/guigobecker/biblioteca-pessoal-v2">Biblioteca Pessoal</a>: escreva resenhas e avaliações de livros.</li>
-  <li><a href="https://github.com/guigobecker/social-links">Social Links</a>: uma página com links para as minhas redes sociais.</li>
-  <li><a href="https://github.com/guigobecker/loja-do-guigo">Loja do Guigo</a>: cliente web de uma loja virtual.</li>
+  <li><a href="https://github.com/guigobecker/loja-do-guigo">Loja do Guigo</a>: Cliente Web para uma loja virtual.</li>
+  <li><a href="https://github.com/guigobecker/gerador-de-citacoes">Gerador de Citações</a>: gere citações filosóficas aleatórias.</li>
+  <li><a href="https://github.com/guigobecker/social-links">Social Links</a>: acesse os links para as minhas redes sociais.</li>
 </ul>
 
 <br/>
