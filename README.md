@@ -1,6 +1,6 @@
 # 👋 Oi!
 
-Meu nome é Rodrigo, sou programador e estou cursando Ciência da Computação na UFSM.
+Meu nome é Rodrigo, sou Desenvolvedor Full-Stack e estou cursando Ciência da Computação na UFSM.
 
 <br/>
 
