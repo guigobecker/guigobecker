@@ -1,4 +1,4 @@
-# 👋 Oi!
+# 👋 Olá!
 
 Meu nome é Rodrigo, sou Desenvolvedor Full-Stack e estou cursando Ciência da Computação na UFSM.
 
