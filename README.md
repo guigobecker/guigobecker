@@ -30,6 +30,7 @@ Meu nome é Rodrigo, sou Desenvolvedor Full-Stack e estou cursando Ciência da C
   <li><a href="https://github.com/guigobecker/loja-do-guigo">Loja do Guigo</a>: Cliente Web para uma loja virtual.</li>
   <li><a href="https://github.com/guigobecker/verifica-palindromo">Verifica Palíndromo</a>: verifique se uma palavra é ou não um palíndromo.</li>
   <li><a href="https://github.com/guigobecker/gerador-de-citacoes">Gerador de Citações</a>: gere citações filosóficas aleatórias.</li>
+  <li><a href="https://github.com/guigobecker/cronometro">cronometro</a>: marque intervalos de tempo.</li>
   <li><a href="https://github.com/guigobecker/social-links">Social Links</a>: acesse os links para as minhas redes sociais.</li>
 </ul>
 
