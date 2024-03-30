@@ -1,6 +1,6 @@
 # 👋 Olá!
 
-Meu nome é Rodrigo, sou Desenvolvedor Full-Stack e estou cursando Ciência da Computação na UFSM.
+Meu nome é Rodrigo, sou Desenvolvedor Full-Stack e estou cursando Ciência da Computação na UFSM (5º semestre).
 
 <br/>
 
@@ -26,6 +26,7 @@ Meu nome é Rodrigo, sou Desenvolvedor Full-Stack e estou cursando Ciência da C
 ## 📝 Projetos
 
 <ul>
+  <li><a href="https://github.com/guigobecker/portfolio">Portfólio</a>: visualize meus principais projetos.</li>
   <li><a href="https://github.com/guigobecker/biblioteca-pessoal-v2">Biblioteca Pessoal</a>: escreva resenhas e avaliações de livros.</li>
   <li><a href="https://github.com/guigobecker/loja-do-guigo">Loja do Guigo</a>: cliente web para uma loja virtual.</li>
   <li><a href="https://github.com/guigobecker/verifica-palindromo">Verifica Palíndromo</a>: verifique se uma palavra é ou não um palíndromo.</li>
