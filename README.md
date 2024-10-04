@@ -21,6 +21,6 @@ Meu nome é Rodrigo, sou Engenheiro de Software na FP2 Tecnologia e estou cursan
 ## 📫 Contato
 
 <ul>
-  <li>Meu LinkedIn: <a href="https://www.linkedin.com/in/rodrigoschmidtbecker/">rodrigosbecker</a></li>
+  <li>Meu LinkedIn: <a href="https://www.linkedin.com/in/rodrigoschmidtbecker/">linkedin.com/in/rodrigoschmidtbecker</a></li>
   <li>Meu email: <a href="mailto:contato.rodrigobecker@gmail.com">contato.rodrigobecker@gmail.com</a></li>
 </ul>
