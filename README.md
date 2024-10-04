@@ -13,7 +13,6 @@ Meu nome é Rodrigo, sou Engenheiro de Software na FP2 Tecnologia e estou cursan
   <li><a href="https://github.com/guigobecker/verifica-palindromo">Verifica Palíndromo</a>: verifique se uma palavra é ou não um palíndromo.</li>
   <li><a href="https://github.com/guigobecker/gerador-de-citacoes">Gerador de Citações</a>: gere citações filosóficas aleatórias.</li>
   <li><a href="https://github.com/guigobecker/cronometro">Cronômetro</a>: marque intervalos de tempo.</li>
-  <li><a href="https://github.com/guigobecker/social-links">Social Links</a>: acesse os links para as minhas redes sociais.</li>
 </ul>
 
 <br/>
