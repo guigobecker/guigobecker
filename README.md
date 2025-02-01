@@ -1,6 +1,6 @@
 # 👋 Olá!
 
-Meu nome é Rodrigo, sou Engenheiro de Software na FP2 Tecnologia e estou cursando Ciência da Computação na UFSM (6º semestre).
+Meu nome é Rodrigo, sou Engenheiro de Software na FP2 Tecnologia e estou cursando Ciência da Computação na UFSM (7º semestre).
 
 <br/>
 
